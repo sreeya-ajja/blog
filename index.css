@@ -1,0 +1,45 @@
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #5e9fb3;
+    color: #141414;
+    text-align: center;
+    padding: 1em;
+}
+
+nav {
+    background-color: #5e9fb3;
+}
+
+nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+
+nav li {
+    float: left;
+}
+
+nav a {
+    display: block;
+    color: #111010;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+nav a:hover {
+    background-color: #e9dede;
+}
+
+section {
+    padding: 20px;
+}
+
+
